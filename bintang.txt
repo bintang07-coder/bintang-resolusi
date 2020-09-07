@@ -3,3 +3,5 @@
   - Belajar NPM, Node js, ES6 dll.
   - Membuat website sekolah, shop, kursus dll
   - Belajar mendalam pemrograman
+  - Membuat kurusu online dengan fitur lengkap dan ada pembanyaran
+  - Membuat channel youtube edukasi dan unik

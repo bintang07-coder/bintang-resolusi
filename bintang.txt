@@ -1,5 +1,5 @@
   RENCANA KEDEPAN
-  - Belajar framework dan librari javascript
-  - Belajar semua tentang javascript
-  - Membuat banyak website
+  - Belajar librari React js & Vue js
+  - Belajar NPM, Node js, ES6 dll.
+  - Membuat website sekolah, shop, kursus dll
   - Belajar mendalam pemrograman
